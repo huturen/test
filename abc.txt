@@ -8,3 +8,6 @@ rrrrrrr
 function abc() {
 	echo 'abc';
 }
+function f2() {
+	echo 'abc';
+}
