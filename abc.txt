@@ -4,3 +4,7 @@ ooooooo
 ppppppp
 
 rrrrrrr
+
+function abc() {
+	echo 'abc';
+}
