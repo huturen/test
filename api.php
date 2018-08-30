@@ -2,5 +2,6 @@
 
 
 
-echo 'abc'
+
+echo 'abc';
 echo 'xxxx';
