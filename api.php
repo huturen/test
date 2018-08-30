@@ -1,4 +1,4 @@
 <?php
 
-echo 'abc';
+echo 'abc'
 echo 'xxxx';
